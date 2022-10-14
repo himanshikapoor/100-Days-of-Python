@@ -22,3 +22,6 @@
 - [Day-21: Snake Game(Part 2)](https://github.com/himanshikapoor/100-Days-of-Python/tree/main/Day-21)
 - [Day-22: Pong Game](https://github.com/himanshikapoor/100-Days-of-Python/tree/main/Day-22)
 - [Day-23: Turtle Crossing Game](https://github.com/himanshikapoor/100-Days-of-Python/tree/main/Day-23)
+- [Day-24: Mail Merge Project](https://github.com/himanshikapoor/100-Days-of-Python/tree/main/Day-24)
+- [Day-25: Indian States Game](https://github.com/himanshikapoor/100-Days-of-Python/tree/main/Day-25)
+- [Day-26: NATO Alphabet Project](https://github.com/himanshikapoor/100-Days-of-Python/tree/main/Day-26)
