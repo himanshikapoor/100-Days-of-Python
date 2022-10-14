@@ -34,10 +34,7 @@ while score < 37:
 
 # Generating a csv file of states not known
 state_list = data.state.to_list()
-not_guessed_states_list = []
-for state in state_list:
-    if state not in guessed_states:
-        not_guessed_states_list.append(state) 
+not_guessed_states_list = [state for state in state_list if state not in guessed_states]
 
 df = pandas.DataFrame(not_guessed_states_list)
 df.to_csv("Indian States Game/States_Not_Guessed.csv")
